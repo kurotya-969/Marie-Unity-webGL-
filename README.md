@@ -1,6 +1,6 @@
 # Marie
 
-Unity/webGLで動く超軽量CFR+ルールベースのポーカーbotです。
+Unity/webGLで動く（かもしれない、世界は君たちの手の中）な超軽量CFR+ルールベースのポーカーbotです。
 
 ## 概要
 
