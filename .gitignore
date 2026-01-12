@@ -1,0 +1,12 @@
+# SSH keys
+*.pem
+*.key
+*.pub
+.ssh/
+aaa
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
