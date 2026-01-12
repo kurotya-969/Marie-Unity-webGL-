@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 1. `src/strategies/` に新しい `.py` ファイルを作成
 2. `Strategy` 基底クラスを継承
-3. `config/strategies.yaml` に設定を追加
+
 
 ### 実験実行
 
